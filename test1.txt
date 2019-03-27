@@ -1,13 +1,3 @@
- Volume in drive C has no label.
- Volume Serial Number is 066A-6504
-
- Directory of C:\Users\amrithaa1995\Desktop\gitproject
-
-27-Mar-19  11:57 AM    <DIR>          .
-27-Mar-19  11:57 AM    <DIR>          ..
-27-Mar-19  11:57 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  462,463,287,296 bytes free
-
-
 learning purpose
+
+i deleted all the thinks fuck you 
